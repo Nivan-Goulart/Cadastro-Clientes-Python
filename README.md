@@ -34,6 +34,17 @@ Cadastro de nº 2
 Por favor, digite o nome do cliente: (ou "sair" para encerrar): sair
 
 Clientes cadastrados:
-E-mail: pedro.alvaro@email.com
+E-mail: pedro.alvaro@gmail.com
 Nome: Pedro Alvaro
 Telefone: 21998765432
+
+```
+## Como Rodar o Projeto
+
+1. Certifique-se de ter o Python 3.x instalado na sua máquina. 
+   Segue o link para download: https://www.python.org/downloads/
+2. Baixe ou clone o repositório.
+3. Execute o script principal no terminal: python3 cadastro-de-clientes.py
+
+
+
